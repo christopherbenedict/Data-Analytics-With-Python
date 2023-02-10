@@ -1,0 +1,10 @@
+Elevation, the Minimum value is 1859.0, the Maximum value is 3858.0 and the Average value is 2959.37
+Aspect, the Minimum value is 0.0, the Maximum value is 360.0 and the Average value is 155.66
+Slope, the Minimum value is 0.0, the Maximum value is 66.0 and the Average value is 14.1
+Horizontal_Distance_To_Hydrology, the Minimum value is 0.0, the Maximum value is 1397.0 and the Average value is 269.43
+Vertical_Distance_To_Hydrology, the Minimum value is -173.0, the Maximum value is 601.0 and the Average value is 46.42
+Horizontal_Distance_To_Roadways, the Minimum value is 0.0, the Maximum value is 7117.0 and the Average value is 2350.15
+Hillshade_9am, the Minimum value is 234.0, the Maximum value is 123258959.0 and the Average value is 212.15
+Hillshade_Noon, the Minimum value is 0.0, the Maximum value is 254.0 and the Average value is 223.32
+Hillshade_3pm, the Minimum value is 135.0, the Maximum value is 254.0 and the Average value is 142.53
+Horizontal_Distance_To_Fire_Points, the Minimum value is 0.0, the Maximum value is 7173.0 and the Average value is 1980.28
